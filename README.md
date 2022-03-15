@@ -1,5 +1,5 @@
 # Matpltlib-Tutorial
-记录学习Matplotlib的过程
+从[Matplotlib官网](https://matplotlib.org/)自己整理的教程
 ## matplotlib.pyplot API
 
 ### 绘图类型
